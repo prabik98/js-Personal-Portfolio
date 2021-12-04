@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import DevIcon from "devicon-react-svg";
+// import DevIcon from "devicon-react-svg";
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';

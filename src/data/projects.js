@@ -3,8 +3,7 @@ export const ProjectData = [
     id: 1,
     title: "Personal Portfolio",
     about:
-      "A lightweight, single-page responsive personal portfolio/website built using ReactJs that showcase\
-      Projects, Skills, Professional Experience and Contact.",
+      "A lightweight, single-page responsive personal portfolio/website built using ReactJs that showcase Projects, Skills, Professional Experience and Contact.",
     tags: ["HTML", "CSS", "JavaScript", "ReactJs", "Firebase"],
     demo: "http://localhost:3000",
     github: "www.example.com",
@@ -16,8 +15,7 @@ export const ProjectData = [
     id: 1,
     title: "Web App Development using Streamlit",
     about:
-      "Integrated Machine Learning models trained on Mushroom dataset in a Web app created using Streamlit and Python.\
-      Based on the results, achieved accuracies of 88%, 92%, 93% in predicting edible or poisonous using Logistic Regression, Random Forest, SVMs.",
+      "Integrated Machine Learning models trained on Mushroom dataset in a Web app created using Streamlit and Python. Based on the results, achieved accuracies of 88%, 92%, 93% in predicting edible or poisonous using Logistic Regression, Random Forest, SVMs.",
     tags: ["Python", "Streamlit", "Keras", "Tensorflow", "Scikit-learn", "Numpy", "Pandas", "Anaconda"],
     // demo: "www.example.com",
     github: "https://github.com/prabik98/Machine-Learning-Web-App-using-Streamlit---Python",
@@ -29,8 +27,7 @@ export const ProjectData = [
     id: 1,
     title: "Image Super Resolution Using Autoencoders",
     about:
-      "An Autoencoder neural network model is designed and trained to create high resolution images from low-resolution\
-      source images (blurred, noisy, low light) which can be implemented in low clarity images & CCTVs to verify the Crime scene by law inforcement.",
+      "An Autoencoder neural network model is designed and trained to create high resolution images from low-resolution source images (blurred, noisy, low light) which can be implemented in low clarity images & CCTVs to verify the Crime scene by law inforcement.",
     tags: ["Python", "Scipy", "Keras", "Tensorflow", "Scikit-learn", "Numpy", "Pandas", "Anaconda"],
     // demo: "www.example.com",
     github: "https://github.com/prabik98/Image-Super-Resolution-Using-Autoencoders-in-Keras",
