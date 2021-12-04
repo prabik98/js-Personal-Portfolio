@@ -9,7 +9,7 @@ function SocialContact() {
         return (
           <a href={item.link} target="_blank" rel="noopener noreferrer">
             <div className="social-icon-div">
-              <img src={item.icon} className="social-icon" />
+              <img src={item.icon} alt="social-contact" className="social-icon" />
             </div>
           </a>
         );
