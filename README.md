@@ -1,7 +1,6 @@
-Built a lightweight, single-page responsive personal portfolio that showcases Projects, Skills, Work Experience etc
-
-
 # Getting Started with Create React App
+
+Built a lightweight, single-page responsive personal portfolio that showcases Projects, Skills, Work Experience etc
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
